@@ -1,0 +1,57 @@
+body {
+background-color: black;
+color: white;
+text-align: center;
+margin: 0%;
+padding: 0%;
+}
+
+header h1 {
+color: blueviolet;
+font-size: 16px;
+padding: 20px;
+text-align: left;
+}
+
+.intro {
+margin-top: 30px;
+font-size: 15px;
+color: gray;
+}
+
+h2 {
+font-size: 25px;
+font-weight: bold;
+margin: 10px;
+}
+
+.job {
+font-size: 15px;
+color: grey;
+}
+
+.buttons {
+margin: 20px;
+}
+
+.btn {
+border: 1px solid blueviolet;
+color: blueviolet;
+padding: 10px 15px;
+margin: 6px;
+text-decoration: none;
+border-radius: 6px;
+}
+
+.photo {
+margin-top: 27px;
+display: flex;
+justify-content: center;
+}
+
+.photo img {
+width: 300px;
+border-top-right-radius: 40px;
+border-top-left-radius: 40px;
+}
+
